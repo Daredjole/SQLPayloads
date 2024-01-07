@@ -9,8 +9,8 @@
             \|__|     \|__|\|__|\___/ /        \|_______|\|_______|\|__|\|__|\|_______|
                                \|___|/                                                 
 
-¿Que es y que contiene este repositorio?
+Whats my repository and what contains that? 
 
 
 
-- Aqui estan todos los Payloads que he ido desarrolando con el paso del tiempo para explotar vulnerabilidades de SQL injection 
+- Here are all the payloads that I have been developing over time to exploit SQL injection vulnerabilities.
